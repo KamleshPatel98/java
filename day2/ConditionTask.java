@@ -14,19 +14,27 @@ public class ConditionTask {
 
         // switch(operation){
         //     case "add": 
-        //         System.out.print(a + b);
+        //         System.out.print(a+b);
         //         break;
         //     case "subract":
-        //         System.out.print(a - b);
+        //         System.out.print(a-b);
         //         break;
         //     case "multiply":
-        //         System.out.print(a * b);
+        //         System.out.print(a*b);
         //         break;
         //     case "division":
-        //         System.out.print(a / b); // 34 / 15 => 2
+                // if(b == 0) {
+                //     System.out.println("Invalid Division");
+                // } else {
+                //     System.out.println(a/b); // 34 / 15 => 2
+                // }
         //         break;
         //     case "remainder":
-        //         System.out.print(a % b);  // 34 % 15 => 4
+                    // if(b == 0) {
+                    //     System.out.println("Invalid Division");
+                    // } else {
+                    //     System.out.println(a%b); // 34 % 15 => 4
+                    // }
         //         break;
         //     default: 
         //         System.out.print("Condition not satisfy");
